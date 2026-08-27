@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Boyd's Morning Brief</title>
+    <link>https://tunuboy.github.io/morning-brief-7q2</link>
+    <language>en-us</language>
+    <description>Daily two-host summary of my newsletters. Rendered every morning.</description>
+    <itunes:author>Boyd</itunes:author>
+    <itunes:summary>Daily two-host summary of my newsletters. Rendered every morning.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://tunuboy.github.io/morning-brief-7q2/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Boyd</itunes:name>
+      <itunes:email>tunuboy@gmail.com</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Thu, 27 Aug 2026 13:33:03 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Thursday, August 27, 2026</title>
+      <description>Today's three: One. Taste is trained, so protect the setups that grow it. Two. Feed your AI both frozen knowledge and living context. Three. Ask your agents for decisions, not status updates.</description>
+      <itunes:summary>Today's three: One. Taste is trained, so protect the setups that grow it. Two. Feed your AI both frozen knowledge and living context. Three. Ask your agents for decisions, not status updates.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-08-27.mp3" length="2323125" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:54</itunes:duration>
+    </item>
+  </channel>
+</rss>
