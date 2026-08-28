@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 27 Aug 2026 13:33:03 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:27:28 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Friday, August 28, 2026</title>
+      <description>Today's three: Two. Break into AI PM work by shipping your own AI project and calling it what it is. Work. Three. Point AI at your contracts, and match your marketing to whether people chase gains or fear losses.</description>
+      <itunes:summary>Today's three: Two. Break into AI PM work by shipping your own AI project and calling it what it is. Work. Three. Point AI at your contracts, and match your marketing to whether people chase gains or fear losses.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-08-28.mp3" length="2263581" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:46</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Thursday, August 27, 2026</title>
       <description>Today's three: One. Taste is trained, so protect the setups that grow it. Two. Feed your AI both frozen knowledge and living context. Three. Ask your agents for decisions, not status updates.</description>
