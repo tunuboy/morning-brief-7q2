@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 28 Aug 2026 10:27:28 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:27:06 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Saturday, August 29, 2026</title>
+      <description>Today's three: One. If you're building multi-agent, route through a supervisor and cap the fan-out. Two. Whether it's Cowork or a full Company OS, start by scoring what your agent actually knows. Three. Deep tech money is moving fast, and fast money is the money that skips diligence.</description>
+      <itunes:summary>Today's three: One. If you're building multi-agent, route through a supervisor and cap the fan-out. Two. Whether it's Cowork or a full Company OS, start by scoring what your agent actually knows. Three. Deep tech money is moving fast, and fast money is the money that skips diligence.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-08-29.mp3" length="2150541" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:34</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Friday, August 28, 2026</title>
       <description>Today's three: Two. Break into AI PM work by shipping your own AI project and calling it what it is. Work. Three. Point AI at your contracts, and match your marketing to whether people chase gains or fear losses.</description>

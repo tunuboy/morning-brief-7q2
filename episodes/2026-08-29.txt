@@ -1,0 +1,1 @@
+Today's three: One. If you're building multi-agent, route through a supervisor and cap the fan-out. Two. Whether it's Cowork or a full Company OS, start by scoring what your agent actually knows. Three. Deep tech money is moving fast, and fast money is the money that skips diligence.
