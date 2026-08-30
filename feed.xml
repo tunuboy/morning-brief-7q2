@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 29 Aug 2026 10:27:06 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:39:58 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, August 30, 2026</title>
+      <description>Today's three: One. Venture math flipped. Money becomes product in months, so build around the model. Two. You can teach anyone Claude with one clear prompt and a cite-your-sources line. Three. The M6 Mac mini makes a private AI box. Just skip the base model.</description>
+      <itunes:summary>Today's three: One. Venture math flipped. Money becomes product in months, so build around the model. Two. You can teach anyone Claude with one clear prompt and a cite-your-sources line. Three. The M6 Mac mini makes a private AI box. Just skip the base model.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-08-30.mp3" length="1964373" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:21</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, August 29, 2026</title>
       <description>Today's three: One. If you're building multi-agent, route through a supervisor and cap the fan-out. Two. Whether it's Cowork or a full Company OS, start by scoring what your agent actually knows. Three. Deep tech money is moving fast, and fast money is the money that skips diligence.</description>
