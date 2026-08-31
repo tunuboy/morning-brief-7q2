@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 30 Aug 2026 14:39:58 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:59:17 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Monday, August 31, 2026</title>
+      <description>Today's three: One. Write your own take in one line before you open the chat. It's the only way to keep your ideas yours. Two. Steering beats rowing now. Ambition's the bottleneck, and n8n is the glue that wires your tools together. Three. The money's moving to the physical layer. a16z's billion-dollar hardware bet, and a China market the West keeps miscounting.</description>
+      <itunes:summary>Today's three: One. Write your own take in one line before you open the chat. It's the only way to keep your ideas yours. Two. Steering beats rowing now. Ambition's the bottleneck, and n8n is the glue that wires your tools together. Three. The money's moving to the physical layer. a16z's billion-dollar hardware bet, and a China market the West keeps miscounting.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-08-31.mp3" length="2094021" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:32</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Sunday, August 30, 2026</title>
       <description>Today's three: One. Venture math flipped. Money becomes product in months, so build around the model. Two. You can teach anyone Claude with one clear prompt and a cite-your-sources line. Three. The M6 Mac mini makes a private AI box. Just skip the base model.</description>
