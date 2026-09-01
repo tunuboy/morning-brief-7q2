@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 31 Aug 2026 11:59:17 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:27:33 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Tuesday, September 01, 2026</title>
+      <description>Your daily two-host newsletter brief.</description>
+      <itunes:summary>Your daily two-host newsletter brief.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-01.mp3" length="2203101" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:43</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Monday, August 31, 2026</title>
       <description>Today's three: One. Write your own take in one line before you open the chat. It's the only way to keep your ideas yours. Two. Steering beats rowing now. Ambition's the bottleneck, and n8n is the glue that wires your tools together. Three. The money's moving to the physical layer. a16z's billion-dollar hardware bet, and a China market the West keeps miscounting.</description>
