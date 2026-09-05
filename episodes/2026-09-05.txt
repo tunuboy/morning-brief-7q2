@@ -1,0 +1,1 @@
+Today's three: One. Fable 5.1 is built to finish long jobs, not answer a single prompt. Two. Perplexity splits cloud and local so your private files never leave your Mac. Three. Run the Claude security audit this weekend, before someone else does.
