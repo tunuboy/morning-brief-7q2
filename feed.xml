@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 05 Sep 2026 10:27:13 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:27:17 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Monday, September 07, 2026</title>
+      <description>Today's three: One. GPT-6 Astra wins on benchmarks and computer use. Prompt it with a clear finish line. Two. Build in loops. Moats get discovered by shipping, and distribution is the one that lasts. Three. AI cracked cyber wide open. Bugs jumped past 600 a month, and defense is where the whitespace is.</description>
+      <itunes:summary>Today's three: One. GPT-6 Astra wins on benchmarks and computer use. Prompt it with a clear finish line. Two. Build in loops. Moats get discovered by shipping, and distribution is the one that lasts. Three. AI cracked cyber wide open. Bugs jumped past 600 a month, and defense is where the whitespace is.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-07.mp3" length="2286597" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:47</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, September 05, 2026</title>
       <description>Today's three: One. Fable 5.1 is built to finish long jobs, not answer a single prompt. Two. Perplexity splits cloud and local so your private files never leave your Mac. Three. Run the Claude security audit this weekend, before someone else does.</description>
