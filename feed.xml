@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 07 Sep 2026 10:27:17 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:14:24 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Tuesday, September 08, 2026</title>
+      <description>Today's three: One. GPT-6 Astra leads most benchmarks, but ships with its cyber teeth pulled. Two. Andrew Ng says use AI to build, not to learn, or your skills quietly rot. Three. Owning your model weights is now an edge, not a sacrifice.</description>
+      <itunes:summary>Today's three: One. GPT-6 Astra leads most benchmarks, but ships with its cyber teeth pulled. Two. Andrew Ng says use AI to build, not to learn, or your skills quietly rot. Three. Owning your model weights is now an edge, not a sacrifice.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-08.mp3" length="1644861" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:02:42</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Monday, September 07, 2026</title>
       <description>Today's three: One. GPT-6 Astra wins on benchmarks and computer use. Prompt it with a clear finish line. Two. Build in loops. Moats get discovered by shipping, and distribution is the one that lasts. Three. AI cracked cyber wide open. Bugs jumped past 600 a month, and defense is where the whitespace is.</description>
