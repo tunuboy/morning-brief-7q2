@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 08 Sep 2026 11:14:24 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:44:56 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Wednesday, September 09, 2026</title>
+      <description>Today's three: One. Astra's cheaper per job, but it's not AGI, and it still can't learn. Two. Prompt it lighter. Fewer instructions, lower reasoning level, treat it like an agent. Three. Watch CPI on the eleventh. It moves the Fed, and the Fed moves crypto.</description>
+      <itunes:summary>Today's three: One. Astra's cheaper per job, but it's not AGI, and it still can't learn. Two. Prompt it lighter. Fewer instructions, lower reasoning level, treat it like an agent. Three. Watch CPI on the eleventh. It moves the Fed, and the Fed moves crypto.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-09.mp3" length="2082069" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:28</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Tuesday, September 08, 2026</title>
       <description>Today's three: One. GPT-6 Astra leads most benchmarks, but ships with its cyber teeth pulled. Two. Andrew Ng says use AI to build, not to learn, or your skills quietly rot. Three. Owning your model weights is now an edge, not a sacrifice.</description>
