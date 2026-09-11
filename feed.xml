@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 09 Sep 2026 13:44:56 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:27:22 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Friday, September 11, 2026</title>
+      <description>Today's three: One. The AI economy leans on a tiny customer base, and the real bills hit in 2027. Two. New instruments plus AI are about to overturn things we treat as settled. Three. Astra crossed a line where founders can hand off real multi-step work, and the skill now is building the setup to do it.</description>
+      <itunes:summary>Today's three: One. The AI economy leans on a tiny customer base, and the real bills hit in 2027. Two. New instruments plus AI are about to overturn things we treat as settled. Three. Astra crossed a line where founders can hand off real multi-step work, and the skill now is building the setup to do it.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-11.mp3" length="2318301" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:54</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, September 09, 2026</title>
       <description>Today's three: One. Astra's cheaper per job, but it's not AGI, and it still can't learn. Two. Prompt it lighter. Fewer instructions, lower reasoning level, treat it like an agent. Three. Watch CPI on the eleventh. It moves the Fed, and the Fed moves crypto.</description>
