@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 11 Sep 2026 10:27:22 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:27:12 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Saturday, September 12, 2026</title>
+      <description>Today's three: One. OpenAI's Agents API rents you the harness. Build your value on top of it. Two. Price for outcomes, not tokens. Anchor to your token bill and you'll underprice yourself. Three. The moat is trust and access. True for Pega, true for the LPs chasing the next SpaceX.</description>
+      <itunes:summary>Today's three: One. OpenAI's Agents API rents you the harness. Build your value on top of it. Two. Price for outcomes, not tokens. Anchor to your token bill and you'll underprice yourself. Three. The moat is trust and access. True for Pega, true for the LPs chasing the next SpaceX.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-12.mp3" length="1938981" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:17</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Friday, September 11, 2026</title>
       <description>Today's three: One. The AI economy leans on a tiny customer base, and the real bills hit in 2027. Two. New instruments plus AI are about to overturn things we treat as settled. Three. Astra crossed a line where founders can hand off real multi-step work, and the skill now is building the setup to do it.</description>
