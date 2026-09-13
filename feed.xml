@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 12 Sep 2026 10:27:12 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:51:59 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, September 13, 2026</title>
+      <description>Today's three: Two. Keep CLAUDE dot md static and boring so the cache holds. Three. Find the one metric that cascades, the way Pocket FM did.</description>
+      <itunes:summary>Today's three: Two. Keep CLAUDE dot md static and boring so the cache holds. Three. Find the one metric that cascades, the way Pocket FM did.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-13.mp3" length="1929021" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:15</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, September 12, 2026</title>
       <description>Today's three: One. OpenAI's Agents API rents you the harness. Build your value on top of it. Two. Price for outcomes, not tokens. Anchor to your token bill and you'll underprice yourself. Three. The moat is trust and access. True for Pega, true for the LPs chasing the next SpaceX.</description>
