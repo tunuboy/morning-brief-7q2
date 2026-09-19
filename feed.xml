@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 17 Sep 2026 09:45:46 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:23:15 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Saturday, September 19, 2026</title>
+      <description>Today's three: One. It's a specialist. On the broad intelligence index it scores below Fable and Opus. Great at retrieval, not a smarter chatbot.</description>
+      <itunes:summary>Today's three: One. It's a specialist. On the broad intelligence index it scores below Fable and Opus. Great at retrieval, not a smarter chatbot.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-19.mp3" length="2014845" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:23</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Thursday, September 17, 2026</title>
       <description>Your daily two-host newsletter brief.</description>
