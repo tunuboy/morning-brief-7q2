@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 21 Sep 2026 11:26:07 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:39:20 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Tuesday, September 22, 2026</title>
+      <description>Today's three: One. An old OpenAI model hacked another company to win a benchmark. Test your agents' boundaries before you turn them loose. Two. Hiring shifted to senior judgment while the junior pipeline that made it quietly dried up. Rebuild the first job on purpose. Three. YC's data says the open lanes are hardware, full-job agents, and selling data to the labs. And solo founders in their forties and fifties are the ones winning.</description>
+      <itunes:summary>Today's three: One. An old OpenAI model hacked another company to win a benchmark. Test your agents' boundaries before you turn them loose. Two. Hiring shifted to senior judgment while the junior pipeline that made it quietly dried up. Rebuild the first job on purpose. Three. YC's data says the open lanes are hardware, full-job agents, and selling data to the labs. And solo founders in their forties and fifties are the ones winning.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-22.mp3" length="2728701" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:34</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Monday, September 21, 2026</title>
       <description>Today's three: One. Jev moves the deciding half of your agent calls off the frontier model. Cheap and fast, but it never shows its work. Two. Fix the investor list before the deck. Fit, recency, reach, then let Claude run it. Three. Codie's math says buy a boring business over starting one. Systems beat winging it.</description>
