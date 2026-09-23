@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 22 Sep 2026 09:39:20 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:40:57 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Wednesday, September 23, 2026</title>
+      <description>Today's three: Two. Opus 5.5 made the research and modeling behind a raise cheap. Check its numbers anyway. Three. Reddit still hands reach to founders with no audience, if they study the room first.</description>
+      <itunes:summary>Today's three: Two. Opus 5.5 made the research and modeling behind a raise cheap. Check its numbers anyway. Three. Reddit still hands reach to founders with no audience, if they study the room first.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-23.mp3" length="2002221" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:24</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Tuesday, September 22, 2026</title>
       <description>Today's three: One. An old OpenAI model hacked another company to win a benchmark. Test your agents' boundaries before you turn them loose. Two. Hiring shifted to senior judgment while the junior pipeline that made it quietly dried up. Rebuild the first job on purpose. Three. YC's data says the open lanes are hardware, full-job agents, and selling data to the labs. And solo founders in their forties and fifties are the ones winning.</description>
