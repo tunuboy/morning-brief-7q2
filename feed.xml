@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 24 Sep 2026 13:56:35 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:01:08 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Friday, September 25, 2026</title>
+      <description>Today's three: Two. Jev makes typed decisions fast and cheap, but check its confidence against your own data before you trust it. Three. Companies grade AI fluency now. Ship real outcomes, label your effort, and measure against a baseline.</description>
+      <itunes:summary>Today's three: Two. Jev makes typed decisions fast and cheap, but check its confidence against your own data before you trust it. Three. Companies grade AI fluency now. Ship real outcomes, label your effort, and measure against a baseline.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-25.mp3" length="2177781" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:35</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Thursday, September 24, 2026</title>
       <description>Today's three: One. Opus 5.5 is cheaper and more stubborn, so hand it longer work. Two. Overnight agents live or die on limits and an independent check, not the headcount. Three. HappyRobot and Netflix both land the same point. People decide what's worth building.</description>
