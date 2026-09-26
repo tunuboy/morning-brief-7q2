@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 25 Sep 2026 10:01:08 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:55:22 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Saturday, September 26, 2026</title>
+      <description>Today's three: One. Jev comes from a ChatGPT co-creator. It decides. It doesn't write. Two. Almost two hundred times faster, pennies to run, and the output tokens cost nothing. Three. Small context, no vision, no reasoning. Reach for it on routing, scoring, and tagging.</description>
+      <itunes:summary>Today's three: One. Jev comes from a ChatGPT co-creator. It decides. It doesn't write. Two. Almost two hundred times faster, pennies to run, and the output tokens cost nothing. Three. Small context, no vision, no reasoning. Reach for it on routing, scoring, and tagging.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-26.mp3" length="1614261" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:02:43</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Friday, September 25, 2026</title>
       <description>Today's three: Two. Jev makes typed decisions fast and cheap, but check its confidence against your own data before you trust it. Three. Companies grade AI fluency now. Ship real outcomes, label your effort, and measure against a baseline.</description>
