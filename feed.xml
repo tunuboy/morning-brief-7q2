@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 26 Sep 2026 11:55:22 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:18:51 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, September 27, 2026</title>
+      <description>Today's three: Two. Shorter prompts can cost more. Measure the whole job, cache what repeats, route the easy work to a cheap model. Three. Coinbase runs on supervised agents now, and the one-person Claude company is a setup you can build this week.</description>
+      <itunes:summary>Today's three: Two. Shorter prompts can cost more. Measure the whole job, cache what repeats, route the easy work to a cheap model. Three. Coinbase runs on supervised agents now, and the one-person Claude company is a setup you can build this week.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-27.mp3" length="2296533" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:51</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, September 26, 2026</title>
       <description>Today's three: One. Jev comes from a ChatGPT co-creator. It decides. It doesn't write. Two. Almost two hundred times faster, pennies to run, and the output tokens cost nothing. Three. Small context, no vision, no reasoning. Reach for it on routing, scoring, and tagging.</description>
