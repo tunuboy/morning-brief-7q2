@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 27 Sep 2026 14:18:51 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:05:32 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Monday, September 28, 2026</title>
+      <description>Today's three: One. Opus five-five thinks on its own. Drop "think harder," and name what you don't want. Two. Build systems, not chats. Skills, loops and schedules keep working while you sleep. Three. Push the cheap decisions to a decision layer. Save the pricey model for the real writing.</description>
+      <itunes:summary>Today's three: One. Opus five-five thinks on its own. Drop "think harder," and name what you don't want. Two. Build systems, not chats. Skills, loops and schedules keep working while you sleep. Three. Push the cheap decisions to a decision layer. Save the pricey model for the real writing.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-28.mp3" length="2246445" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:48</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Sunday, September 27, 2026</title>
       <description>Today's three: Two. Shorter prompts can cost more. Measure the whole job, cache what repeats, route the easy work to a cheap model. Three. Coinbase runs on supervised agents now, and the one-person Claude company is a setup you can build this week.</description>
