@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 28 Sep 2026 10:05:32 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:39:55 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Tuesday, September 29, 2026</title>
+      <description>Your daily two-host newsletter brief.</description>
+      <itunes:summary>Your daily two-host newsletter brief.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-09-29.mp3" length="1875741" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:08</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Monday, September 28, 2026</title>
       <description>Today's three: One. Opus five-five thinks on its own. Drop "think harder," and name what you don't want. Two. Build systems, not chats. Skills, loops and schedules keep working while you sleep. Three. Push the cheap decisions to a decision layer. Save the pricey model for the real writing.</description>
