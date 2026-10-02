@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 01 Oct 2026 10:45:10 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:02:49 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Friday, October 02, 2026</title>
+      <description>Today's three: Two. Machines read your pricing and your models now. Make both easy to check. Three. Accountability is landing. Who owns the model in production, and who signs the layoff notice.</description>
+      <itunes:summary>Today's three: Two. Machines read your pricing and your models now. Make both easy to check. Three. Accountability is landing. Who owns the model in production, and who signs the layoff notice.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-02.mp3" length="1942821" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:15</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Thursday, October 01, 2026</title>
       <description>Today's three: Two. Lean teams win on talent density and less complexity, not more headcount. Three. In AI and in Southeast Asia, the real constraint is physical. Power, accountability, who owns the result.</description>
