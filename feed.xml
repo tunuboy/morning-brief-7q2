@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 10:34:20 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:17:43 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, October 04, 2026</title>
+      <description>Today's three: One. Don't open the biggest model first. Start smaller. Move up only when the task fights back.</description>
+      <itunes:summary>Today's three: One. Don't open the biggest model first. Start smaller. Move up only when the task fights back.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-04.mp3" length="2115717" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:31</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, October 03, 2026</title>
       <description>Today's three: Two. Claude Code mods let you build the feature you keep wishing for. Three. a16z says the money's moving down to the factory floor.</description>
