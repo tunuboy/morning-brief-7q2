@@ -1,0 +1,1 @@
+Today's three: One. The harness beats the model. Build the wrapper, not just the prompt. Two. Start one agent on one real job, and tighten your questions in three layers. Three. Supabase wants to be the backend for AI coding, while Tilly Norwood dragged the AI-actor fight into the open.
