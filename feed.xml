@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 12:13:23 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:56:21 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Tuesday, October 06, 2026</title>
+      <description>Your daily two-host newsletter brief.</description>
+      <itunes:summary>Your daily two-host newsletter brief.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-06.mp3" length="2320293" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:57</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Monday, October 05, 2026</title>
       <description>Today's three: One. The harness beats the model. Build the wrapper, not just the prompt. Two. Start one agent on one real job, and tighten your questions in three layers. Three. Supabase wants to be the backend for AI coding, while Tilly Norwood dragged the AI-actor fight into the open.</description>
