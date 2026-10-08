@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 07 Oct 2026 14:18:31 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:21:58 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Thursday, October 08, 2026</title>
+      <description>Today's three: One. OpenAI held a better model back over safety. And it earns trust by asking before it acts. Two. An agent is just a model in a loop with tools. Only give it what you can undo. Three. The small moves win. A thirty five dollar analyst stack. And founders chasing the first hundred customers by hand.</description>
+      <itunes:summary>Today's three: One. OpenAI held a better model back over safety. And it earns trust by asking before it acts. Two. An agent is just a model in a loop with tools. Only give it what you can undo. Three. The small moves win. A thirty five dollar analyst stack. And founders chasing the first hundred customers by hand.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-08.mp3" length="2464845" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:04</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, October 07, 2026</title>
       <description>Your daily two-host newsletter brief.</description>

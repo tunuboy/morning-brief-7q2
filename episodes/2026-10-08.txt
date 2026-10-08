@@ -1,0 +1,1 @@
+Today's three: One. OpenAI held a better model back over safety. And it earns trust by asking before it acts. Two. An agent is just a model in a loop with tools. Only give it what you can undo. Three. The small moves win. A thirty five dollar analyst stack. And founders chasing the first hundred customers by hand.
