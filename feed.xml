@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 08 Oct 2026 12:21:58 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:59:32 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Friday, October 09, 2026</title>
+      <description>Today's three: One. Cheaper AI comes from caching what repeats. And routing the easy work to a smaller model. Two. Agents can click just fine. The money's in catching when they quietly got it wrong. Three. The market is spending on AI faster than it can prove the return. So sell the proof.</description>
+      <itunes:summary>Today's three: One. Cheaper AI comes from caching what repeats. And routing the easy work to a smaller model. Two. Agents can click just fine. The money's in catching when they quietly got it wrong. Three. The market is spending on AI faster than it can prove the return. So sell the proof.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-09.mp3" length="2447445" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:05</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Thursday, October 08, 2026</title>
       <description>Today's three: One. OpenAI held a better model back over safety. And it earns trust by asking before it acts. Two. An agent is just a model in a loop with tools. Only give it what you can undo. Three. The small moves win. A thirty five dollar analyst stack. And founders chasing the first hundred customers by hand.</description>
