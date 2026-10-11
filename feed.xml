@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 10 Oct 2026 11:16:44 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:22:26 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, October 11, 2026</title>
+      <description>Today's three: One. Claude Motion turns documents into editable video, because the animation is just code. Two. A Company OS in Slack can hand back the eight hours a week you lose to context pings. Three. On a VC list, freshness beats fit. Chase the funds that raised in the last eighteen months.</description>
+      <itunes:summary>Today's three: One. Claude Motion turns documents into editable video, because the animation is just code. Two. A Company OS in Slack can hand back the eight hours a week you lose to context pings. Three. On a VC list, freshness beats fit. Chase the funds that raised in the last eighteen months.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-11.mp3" length="2249493" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:49</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, October 10, 2026</title>
       <description>Today's three: One. Instinct grew on a trust loop. Cap the invites, and time the first credit card. Two. The repeat investor mistake is pricing what you see, not what it becomes. Three. Cuban and Bezos land in the same spot. Point AI at real work people will pay for.</description>
