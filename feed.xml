@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 11 Oct 2026 14:22:26 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:56:12 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Wednesday, October 14, 2026</title>
+      <description>Today's three: One. Claude Motion and Dashboards turn reports and data into video and live dashboards for twenty a month. Two. Harbor raised ten million to score and insure AI agents, and regulators are pushing everyone that way. Three. In sales and in doctors' offices, the money's in closing the loop. Faster feedback, fewer dropped calls.</description>
+      <itunes:summary>Today's three: One. Claude Motion and Dashboards turn reports and data into video and live dashboards for twenty a month. Two. Harbor raised ten million to score and insure AI agents, and regulators are pushing everyone that way. Three. In sales and in doctors' offices, the money's in closing the loop. Faster feedback, fewer dropped calls.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-14.mp3" length="2396781" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:56</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Sunday, October 11, 2026</title>
       <description>Today's three: One. Claude Motion turns documents into editable video, because the animation is just code. Two. A Company OS in Slack can hand back the eight hours a week you lose to context pings. Three. On a VC list, freshness beats fit. Chase the funds that raised in the last eighteen months.</description>
