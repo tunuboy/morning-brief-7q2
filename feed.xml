@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 17 Oct 2026 11:51:34 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:13:04 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, October 18, 2026</title>
+      <description>Today's three: One. Copying software is nearly free now. The moat is your data, your users, and how fast you learn from them. Two. Anthropic's own numbers. Agents at six hours per human hour. Juniors getting squeezed. And reading load is the new bottleneck. Three. Borrowed growth is wobbling at CoreWeave and the miners. The cold-pitch door is open for founders. And Rich Roll's betting the long game beats the algorithm.</description>
+      <itunes:summary>Today's three: One. Copying software is nearly free now. The moat is your data, your users, and how fast you learn from them. Two. Anthropic's own numbers. Agents at six hours per human hour. Juniors getting squeezed. And reading load is the new bottleneck. Three. Borrowed growth is wobbling at CoreWeave and the miners. The cold-pitch door is open for founders. And Rich Roll's betting the long game beats the algorithm.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-18.mp3" length="2217669" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:51</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, October 17, 2026</title>
       <description>Today's three: One. Jake Cooper. He left Uber, posted a box of databases online, asked who'd hire him. Got zero offers. A few angel checks instead. One. The new AI bet is buying a boring business and running it with agents. Two. MITO and Railway both won on structure. Own the studio. Own the servers. Three. Higgsfield's billion traced back to eight customer calls, and the skill that outlasts every model is doubting it.</description>
