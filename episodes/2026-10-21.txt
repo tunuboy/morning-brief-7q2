@@ -1,0 +1,1 @@
+Today's three: One. On hardware, the design is the easy part. The build, the testing, the real-world loop is where it stays slow. Two. Same tools for everyone, so the habits win. Measure what shipped, keep a daily notebook, guard your attention. Three. Give an agent a real job. Wire it up with a graph and MCP, and keep a human in front of anything you can't undo.
