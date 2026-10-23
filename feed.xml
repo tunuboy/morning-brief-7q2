@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 21 Oct 2026 09:55:37 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:53:03 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Friday, October 23, 2026</title>
+      <description>Today's three: One. Taste is the moat now. Ship at sixty percent, let the edits train it, and the product sells itself before any salesperson does. Two. Build the two interview coaches this weekend. Persona, rubric, pushback. The same recipe judges anything you make. Three. PM hiring is down, but AI PM and pay are up, and four of the top ten hirers are banks. Watch where the market moves, not the headlines.</description>
+      <itunes:summary>Today's three: One. Taste is the moat now. Ship at sixty percent, let the edits train it, and the product sells itself before any salesperson does. Two. Build the two interview coaches this weekend. Persona, rubric, pushback. The same recipe judges anything you make. Three. PM hiring is down, but AI PM and pay are up, and four of the top ten hirers are banks. Watch where the market moves, not the headlines.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-23.mp3" length="2452773" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:05</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, October 21, 2026</title>
       <description>Today's three: One. On hardware, the design is the easy part. The build, the testing, the real-world loop is where it stays slow. Two. Same tools for everyone, so the habits win. Measure what shipped, keep a daily notebook, guard your attention. Three. Give an agent a real job. Wire it up with a graph and MCP, and keep a human in front of anything you can't undo.</description>
