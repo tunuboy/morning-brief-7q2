@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 25 Oct 2026 12:17:33 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:46:23 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Monday, October 26, 2026</title>
+      <description>Today's three: One. There's a Claude skill that turns any ticker into a full business report. Install it, type a name, read the result. Two. Horowitz says the three-year head start is dead. Money replicates talent now, and half of what's priced as a moat is gone. Three. OpenAI's CFO says the work inside every job is changing. A quarter finance, a quarter engineering, a quarter marketing. Everyone builds now.</description>
+      <itunes:summary>Today's three: One. There's a Claude skill that turns any ticker into a full business report. Install it, type a name, read the result. Two. Horowitz says the three-year head start is dead. Money replicates talent now, and half of what's priced as a moat is gone. Three. OpenAI's CFO says the work inside every job is changing. A quarter finance, a quarter engineering, a quarter marketing. Everyone builds now.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-26.mp3" length="2252181" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:46</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Sunday, October 25, 2026</title>
       <description>Today's three: One. How you split work between a cheap model and a strong one, with caching on, decides most of your AI bill. Same output, a fraction of the cost. Two. Claude Code can run the repeatable work of a small team. The morning briefing is free, the prompt's in the piece, and it runs while your laptop's shut. Three. NVIDIA has agents building the whole robot-training pipeline. Simulation's handled. The real world is still the test.</description>
