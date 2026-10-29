@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 28 Oct 2026 13:35:22 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:15:48 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Thursday, October 29, 2026</title>
+      <description>Today's three: Two. The AI labs are now building their own consulting firms, and Anthropic just added a European one. Three. The datapreneurs who make money own the input or own the outcome. That's your morning, Boyd. Go own one of them today.</description>
+      <itunes:summary>Today's three: Two. The AI labs are now building their own consulting firms, and Anthropic just added a European one. Three. The datapreneurs who make money own the input or own the outcome. That's your morning, Boyd. Go own one of them today.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-10-29.mp3" length="2146245" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:34</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, October 28, 2026</title>
       <description>Today's three: Two. Hyphenate raised forty-five million to put AI agents inside corporate finance. Three. The fastest AI raises followed the product, and the founders still chose the timing and the price.</description>
