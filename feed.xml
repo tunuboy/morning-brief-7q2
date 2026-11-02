@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 31 Oct 2026 16:54:20 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:59:31 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Monday, November 02, 2026</title>
+      <description>Today's three: Two. The twenty dollar AI plan carries the value. Go higher only for daily coding or the API, where the credits pay you back. Three. The messy, fragmented categories like payroll are where AI actually has room to win.</description>
+      <itunes:summary>Today's three: Two. The twenty dollar AI plan carries the value. Go higher only for daily coding or the API, where the credits pay you back. Three. The messy, fragmented categories like payroll are where AI actually has room to win.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-02.mp3" length="2326269" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:54</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, October 31, 2026</title>
       <description>Today's three: Two. Re:Build raised two point one billion to own American factories and the companies that spin out of them. Three. Cuban's test for healthcare AI. If both sides can run the same bot, the value cancels out.</description>
