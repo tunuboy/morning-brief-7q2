@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 02 Nov 2026 10:59:31 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:20:53 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Tuesday, November 03, 2026</title>
+      <description>Your daily two-host newsletter brief.</description>
+      <itunes:summary>Your daily two-host newsletter brief.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-03.mp3" length="2672709" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:30</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Monday, November 02, 2026</title>
       <description>Today's three: Two. The twenty dollar AI plan carries the value. Go higher only for daily coding or the API, where the credits pay you back. Three. The messy, fragmented categories like payroll are where AI actually has room to win.</description>
