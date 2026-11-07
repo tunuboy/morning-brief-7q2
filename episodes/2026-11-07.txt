@@ -1,0 +1,1 @@
+Today's three: One. Before you let an agent write code, give it a spec and keep it in a sandbox. Two. Stop betting on the patch. Get exposed systems offline and prove your backups actually restore. Three. A frontier model lasts three to six months, and a billion dollars now fits in twenty people.
