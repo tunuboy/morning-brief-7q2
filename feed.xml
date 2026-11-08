@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 07 Nov 2026 22:05:55 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:53:03 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, November 08, 2026</title>
+      <description>Today's three: One. Give an agent one real job and clear instructions. A lane, not the keys. Two. A short, clean outreach list beats a long dirty one. Trim it and log what you cut. Three. Before you send a cold email, make sure someone could forward it with no translation needed.</description>
+      <itunes:summary>Today's three: One. Give an agent one real job and clear instructions. A lane, not the keys. Two. A short, clean outreach list beats a long dirty one. Trim it and log what you cut. Three. Before you send a cold email, make sure someone could forward it with no translation needed.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-08.mp3" length="1822101" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:02</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, November 07, 2026</title>
       <description>Today's three: One. Before you let an agent write code, give it a spec and keep it in a sandbox. Two. Stop betting on the patch. Get exposed systems offline and prove your backups actually restore. Three. A frontier model lasts three to six months, and a billion dollars now fits in twenty people.</description>
