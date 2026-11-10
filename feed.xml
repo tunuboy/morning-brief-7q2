@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 09 Nov 2026 10:33:48 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:03:18 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Tuesday, November 10, 2026</title>
+      <description>Today's three: Two. When agents write the code, product vision beats knowing the language. Prompt like a PM. Three. Brockman's bet. Secure your own code every release, and spend more on trust than on software.</description>
+      <itunes:summary>Today's three: Two. When agents write the code, product vision beats knowing the language. Prompt like a PM. Three. Brockman's bet. Secure your own code every release, and spend more on trust than on software.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-10.mp3" length="2903421" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:54</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Monday, November 09, 2026</title>
       <description>Today's three: Two. Socher is betting that same technique cures single-gene diseases inside two years, once biology gets its data. Three. And the hard limit on all of it is physical. Towns are voting on data centers, and consent is now a line item.</description>
