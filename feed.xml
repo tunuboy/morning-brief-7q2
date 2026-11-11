@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 10 Nov 2026 11:03:18 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:56:29 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Wednesday, November 11, 2026</title>
+      <description>Today's three: One. PMs and AI fluency are winning the job market. Engineering and design are tightening. Two. Reliability is the product. Score every behavior before you ship. Three. Build your data room monthly, so you can open it in an afternoon.</description>
+      <itunes:summary>Today's three: One. PMs and AI fluency are winning the job market. Engineering and design are tightening. Two. Reliability is the product. Score every behavior before you ship. Three. Build your data room monthly, so you can open it in an afternoon.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-11.mp3" length="2155269" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:40</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Tuesday, November 10, 2026</title>
       <description>Today's three: Two. When agents write the code, product vision beats knowing the language. Prompt like a PM. Three. Brockman's bet. Secure your own code every release, and spend more on trust than on software.</description>
