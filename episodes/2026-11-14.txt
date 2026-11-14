@@ -1,0 +1,1 @@
+Today's three: One. Want an AI agent in production? Give it a fixed menu of actions, and watch for anything off it. Two. Point an AI at your churned customers with one plain question. You can build the whole loop in Claude Code in half an hour. Three. AI is coming hard for drug discovery, and the smart money now thinks pharma starts to trade more like software.

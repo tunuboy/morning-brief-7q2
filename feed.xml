@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 13 Nov 2026 12:33:26 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:39:41 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Saturday, November 14, 2026</title>
+      <description>Today's three: One. Want an AI agent in production? Give it a fixed menu of actions, and watch for anything off it. Two. Point an AI at your churned customers with one plain question. You can build the whole loop in Claude Code in half an hour. Three. AI is coming hard for drug discovery, and the smart money now thinks pharma starts to trade more like software.</description>
+      <itunes:summary>Today's three: One. Want an AI agent in production? Give it a fixed menu of actions, and watch for anything off it. Two. Point an AI at your churned customers with one plain question. You can build the whole loop in Claude Code in half an hour. Three. AI is coming hard for drug discovery, and the smart money now thinks pharma starts to trade more like software.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-14.mp3" length="2538261" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:16</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Friday, November 13, 2026</title>
       <description>Today's three: One. If you run coding agents, build the gates before you hand over the keys. Two. Point your first agent at the small job you keep skipping. Three. Automate what should stay the same. Protect what needs to read the room.</description>
