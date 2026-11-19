@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 18 Nov 2026 10:24:59 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:28:08 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Thursday, November 19, 2026</title>
+      <description>Today's three: Two. Taavet thinks plain SaaS is done. Chips, defense and energy are where the money's moving now. Three. Speed up one step, like drug discovery, and you just expose the next bottleneck.</description>
+      <itunes:summary>Today's three: Two. Taavet thinks plain SaaS is done. Chips, defense and energy are where the money's moving now. Three. Speed up one step, like drug discovery, and you just expose the next bottleneck.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-19.mp3" length="2430693" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:06</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, November 18, 2026</title>
       <description>Today's three: Two. Your AI edge lives in what you already own. Rights, records, relationships your rivals can't buy. Three. Boring's whole bet is driving tunnel costs down the way SpaceX drove launch costs down.</description>
