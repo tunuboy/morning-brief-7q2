@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 21 Nov 2026 14:52:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:29:22 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Sunday, November 22, 2026</title>
+      <description>Today's three: Two. n8n hit five billion with a small team and no deck. The tiny headcount is the product itself. Three. The work is splitting. Agents take the tasks, people take the judgment, and the risk that's already here is security.</description>
+      <itunes:summary>Today's three: Two. n8n hit five billion with a small team and no deck. The tiny headcount is the product itself. Three. The work is splitting. Agents take the tasks, people take the judgment, and the risk that's already here is security.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-22.mp3" length="2429829" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:57</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Saturday, November 21, 2026</title>
       <description>Today's three: Two. Shipping to production is a pipeline now. Agent code review, a one percent rollout, a PM who owns it end to end. Three. The new sales stack and the smartest money both reward focus. One assistant across your tools, one hard bar on your bets.</description>
