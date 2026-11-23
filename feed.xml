@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 22 Nov 2026 13:29:22 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:57:12 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Monday, November 23, 2026</title>
+      <description>Today's three: Three. The artist, the scientist, and the general manager. The artist has the edge now. Taste is hard to automate. Two. Product management is growing in the AI era, because taste and deciding what to build are the hard part now. Three. Whether it's investing or a tough conversation, the move is the same. Rehearse with AI, then make the real call yourself.</description>
+      <itunes:summary>Today's three: Three. The artist, the scientist, and the general manager. The artist has the edge now. Taste is hard to automate. Two. Product management is growing in the AI era, because taste and deciding what to build are the hard part now. Three. Whether it's investing or a tough conversation, the move is the same. Rehearse with AI, then make the real call yourself.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-23.mp3" length="2392149" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:58</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Sunday, November 22, 2026</title>
       <description>Today's three: Two. n8n hit five billion with a small team and no deck. The tiny headcount is the product itself. Three. The work is splitting. Agents take the tasks, people take the judgment, and the risk that's already here is security.</description>
