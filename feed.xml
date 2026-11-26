@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 25 Nov 2026 13:02:27 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:22:12 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Thursday, November 26, 2026</title>
+      <description>Your daily two-host newsletter brief.</description>
+      <itunes:summary>Your daily two-host newsletter brief.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-26.mp3" length="2547285" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:04:16</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, November 25, 2026</title>
       <description>Your daily two-host newsletter brief.</description>
