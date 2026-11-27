@@ -14,7 +14,16 @@
       <itunes:name>Boyd</itunes:name>
       <itunes:email>tunuboy@gmail.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 26 Nov 2026 11:22:12 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:02:05 +0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Friday, November 27, 2026</title>
+      <description>Today's three: One. Boat found its real business by shipping the boring layer underneath a product nobody wanted. Two. OpenAI is paying local experts to bring AI to Main Street, the market consultants can't touch. Three. Artex shows AI running old attacks at machine speed. Treat it as the warning shot.</description>
+      <itunes:summary>Today's three: One. Boat found its real business by shipping the boring layer underneath a product nobody wanted. Two. OpenAI is paying local experts to bring AI to Main Street, the market consultants can't touch. Three. Artex shows AI running old attacks at machine speed. Treat it as the warning shot.</itunes:summary>
+      <enclosure url="https://tunuboy.github.io/morning-brief-7q2/episodes/morning-podcast-2026-11-27.mp3" length="2300325" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-podcast-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 10:30:00 +0700</pubDate>
+      <itunes:duration>00:03:55</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Thursday, November 26, 2026</title>
       <description>Your daily two-host newsletter brief.</description>
